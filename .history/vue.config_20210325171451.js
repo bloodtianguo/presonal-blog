@@ -7,6 +7,7 @@ module.exports = {
     css: {
         sourceMap: true
     },
+
     configureWebpack: {
         plugins: [
             new WebpackAliyunOssPlugin({
