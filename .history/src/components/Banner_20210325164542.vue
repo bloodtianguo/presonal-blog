@@ -3,13 +3,13 @@
 <template>
     <div class="banner" id="banner">
         <!-- 加载层 -->
-        <!-- <div class="bg back"><h1>林小二奋笔疾书...</h1></div> -->
+        <div class="bg back"><h1>林小二奋笔疾书...</h1></div>
         <!-- 脚贴 -->
-        <!-- <div class="fork-me"> -->
-            <!-- <a class="fork-me-link" href="https://github.com/manerfan/vuesume/wiki" target="_blank">
+        <div class="fork-me">
+            <a class="fork-me-link" href="https://github.com/manerfan/vuesume/wiki" target="_blank">
                 <span class="fork-me-text">Docs On GitHub</span>
-            </a> -->
-        <!-- </div> -->
+            </a>
+        </div>
         <!-- 背景层 -->
         <div data-aos="fade-in" class="bg"></div>
         <!-- 内容层 -->
